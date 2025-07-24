@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import sympy as sp
+import matplotlib_inline
 
 # Title of the app
 st.title("📊 Linear Regression Analysis")
